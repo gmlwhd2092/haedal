@@ -13,7 +13,7 @@ class soccer:
         print(f'축구선수: {self.name}')
         print(f'포지션: {self.position}')
         print(f'소속팀: {self.club}')
-        print(f'국가: {self.country}')
+        print(f'국: {self.country}')
         print()
 
 
